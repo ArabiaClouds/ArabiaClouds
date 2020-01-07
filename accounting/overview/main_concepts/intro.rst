@@ -33,4 +33,4 @@ through all your companies data.
 
 Of course, ArabiaClouds is mobile too. You can use it to check your accounts on ArabiaClouds go.
 
-Try ArabiaClouds now, and join 2 million happy users.
+Try ArabiaClouds now, and join our happy users.
