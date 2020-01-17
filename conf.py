@@ -285,8 +285,7 @@ odoo_cover_external = {
     'https://ArabiaClouds.com/documentation/user/inventory/management/reporting/inventory_valuation_config.html'    : 'banners/m_2.jpg',
 }
 
-github_user = 'odoo'
-github_project = 'documentation-user'
+
 
 # Where are stored the localisations files
 locale_dirs = ['locale/']
