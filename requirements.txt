@@ -1,2 +1,2 @@
-Werkzeug==0.16.0
-Sphinx>1
+Werkzeug
+sphinx==2.3.1
