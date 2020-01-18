@@ -1,2 +1,1 @@
 Werkzeug
-sphinx==2.0
